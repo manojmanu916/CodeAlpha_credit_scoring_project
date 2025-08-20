@@ -2,6 +2,7 @@
 
 Overview
 This repository contains a Jupyter Notebook for building and evaluating machine learning models to predict creditworthiness based on customer data. The models classify customers into binary categories (label: 0 or 1, where 1 likely indicates higher credit risk or approval eligibility). The project uses standard preprocessing techniques and compares three classifiers: Logistic Regression, Decision Tree, and Random Forest.
+
 Key highlights from analysis:
 
 Datasets: Two CSV files provided – a large training set (~8,707 samples) and a small test set (48 samples).
